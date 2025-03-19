@@ -1,0 +1,13 @@
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\bin\Debug\Padaria.exe.config
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\bin\Debug\Padaria.exe
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\bin\Debug\Padaria.pdb
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.csproj.AssemblyReference.cache
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmSobreNos.resources
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.Properties.Resources.resources
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.csproj.GenerateResource.cache
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.csproj.CoreCompileInputs.cache
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.exe
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.pdb
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmSlpash.resources
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmLogin.resources
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmMenuPrincipal.resources
