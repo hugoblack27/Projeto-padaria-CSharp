@@ -13,3 +13,4 @@ C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\De
 C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmMenuPrincipal.resources
 C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmFuncionarios.resources
 C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmPesquisarFuncionarios.resources
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmCalculadora.resources
