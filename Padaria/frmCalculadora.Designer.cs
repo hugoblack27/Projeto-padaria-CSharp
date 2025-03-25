@@ -32,7 +32,7 @@
             this.lblNumero1 = new System.Windows.Forms.Label();
             this.lblNumero2 = new System.Windows.Forms.Label();
             this.txtNumero1 = new System.Windows.Forms.TextBox();
-            this.txtbNumero2 = new System.Windows.Forms.TextBox();
+            this.txtNumero2 = new System.Windows.Forms.TextBox();
             this.gpbOperacoes = new System.Windows.Forms.GroupBox();
             this.rbtnDivisao = new System.Windows.Forms.RadioButton();
             this.rbtnMultiplicar = new System.Windows.Forms.RadioButton();
@@ -78,15 +78,15 @@
             this.txtNumero1.Size = new System.Drawing.Size(190, 26);
             this.txtNumero1.TabIndex = 0;
             // 
-            // txtbNumero2
+            // txtNumero2
             // 
-            this.txtbNumero2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtbNumero2.Location = new System.Drawing.Point(42, 198);
-            this.txtbNumero2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txtbNumero2.MaxLength = 10;
-            this.txtbNumero2.Name = "txtbNumero2";
-            this.txtbNumero2.Size = new System.Drawing.Size(190, 26);
-            this.txtbNumero2.TabIndex = 1;
+            this.txtNumero2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNumero2.Location = new System.Drawing.Point(42, 198);
+            this.txtNumero2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtNumero2.MaxLength = 10;
+            this.txtNumero2.Name = "txtNumero2";
+            this.txtNumero2.Size = new System.Drawing.Size(190, 26);
+            this.txtNumero2.TabIndex = 1;
             // 
             // gpbOperacoes
             // 
@@ -97,7 +97,7 @@
             this.gpbOperacoes.Location = new System.Drawing.Point(369, 92);
             this.gpbOperacoes.Name = "gpbOperacoes";
             this.gpbOperacoes.Size = new System.Drawing.Size(236, 221);
-            this.gpbOperacoes.TabIndex = 3;
+            this.gpbOperacoes.TabIndex = 2;
             this.gpbOperacoes.TabStop = false;
             this.gpbOperacoes.Text = "Operações";
             // 
@@ -107,7 +107,7 @@
             this.rbtnDivisao.Location = new System.Drawing.Point(26, 164);
             this.rbtnDivisao.Name = "rbtnDivisao";
             this.rbtnDivisao.Size = new System.Drawing.Size(78, 24);
-            this.rbtnDivisao.TabIndex = 7;
+            this.rbtnDivisao.TabIndex = 6;
             this.rbtnDivisao.TabStop = true;
             this.rbtnDivisao.Text = "Divisão";
             this.rbtnDivisao.UseVisualStyleBackColor = true;
@@ -118,7 +118,7 @@
             this.rbtnMultiplicar.Location = new System.Drawing.Point(26, 124);
             this.rbtnMultiplicar.Name = "rbtnMultiplicar";
             this.rbtnMultiplicar.Size = new System.Drawing.Size(97, 24);
-            this.rbtnMultiplicar.TabIndex = 6;
+            this.rbtnMultiplicar.TabIndex = 5;
             this.rbtnMultiplicar.TabStop = true;
             this.rbtnMultiplicar.Text = "Multiplicar";
             this.rbtnMultiplicar.UseVisualStyleBackColor = true;
@@ -129,7 +129,7 @@
             this.rbtnSubitrair.Location = new System.Drawing.Point(26, 83);
             this.rbtnSubitrair.Name = "rbtnSubitrair";
             this.rbtnSubitrair.Size = new System.Drawing.Size(86, 24);
-            this.rbtnSubitrair.TabIndex = 5;
+            this.rbtnSubitrair.TabIndex = 4;
             this.rbtnSubitrair.TabStop = true;
             this.rbtnSubitrair.Text = "Subitrair";
             this.rbtnSubitrair.UseVisualStyleBackColor = true;
@@ -140,7 +140,7 @@
             this.rbtnSomar.Location = new System.Drawing.Point(26, 42);
             this.rbtnSomar.Name = "rbtnSomar";
             this.rbtnSomar.Size = new System.Drawing.Size(74, 24);
-            this.rbtnSomar.TabIndex = 4;
+            this.rbtnSomar.TabIndex = 3;
             this.rbtnSomar.TabStop = true;
             this.rbtnSomar.Text = "Somar";
             this.rbtnSomar.UseVisualStyleBackColor = true;
@@ -154,7 +154,7 @@
             this.txtbResposta.MaxLength = 10;
             this.txtbResposta.Name = "txtbResposta";
             this.txtbResposta.Size = new System.Drawing.Size(190, 26);
-            this.txtbResposta.TabIndex = 2;
+            this.txtbResposta.TabIndex = 10;
             // 
             // lblResposta
             // 
@@ -174,7 +174,7 @@
             this.btnCalcular.Location = new System.Drawing.Point(743, 59);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(189, 92);
-            this.btnCalcular.TabIndex = 8;
+            this.btnCalcular.TabIndex = 7;
             this.btnCalcular.Text = "&Calcular";
             this.btnCalcular.UseVisualStyleBackColor = true;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
@@ -186,9 +186,10 @@
             this.BtnLimpar.Location = new System.Drawing.Point(743, 157);
             this.BtnLimpar.Name = "BtnLimpar";
             this.BtnLimpar.Size = new System.Drawing.Size(189, 92);
-            this.BtnLimpar.TabIndex = 9;
+            this.BtnLimpar.TabIndex = 8;
             this.BtnLimpar.Text = "&Limpar";
             this.BtnLimpar.UseVisualStyleBackColor = true;
+            this.BtnLimpar.Click += new System.EventHandler(this.BtnLimpar_Click);
             // 
             // btnSair
             // 
@@ -197,9 +198,10 @@
             this.btnSair.Location = new System.Drawing.Point(743, 261);
             this.btnSair.Name = "btnSair";
             this.btnSair.Size = new System.Drawing.Size(189, 92);
-            this.btnSair.TabIndex = 10;
+            this.btnSair.TabIndex = 9;
             this.btnSair.Text = "&Sair";
             this.btnSair.UseVisualStyleBackColor = true;
+            this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
             // frmCalculadora
             // 
@@ -212,7 +214,7 @@
             this.Controls.Add(this.lblResposta);
             this.Controls.Add(this.txtbResposta);
             this.Controls.Add(this.gpbOperacoes);
-            this.Controls.Add(this.txtbNumero2);
+            this.Controls.Add(this.txtNumero2);
             this.Controls.Add(this.txtNumero1);
             this.Controls.Add(this.lblNumero2);
             this.Controls.Add(this.lblNumero1);
@@ -236,7 +238,7 @@
         private System.Windows.Forms.Label lblNumero1;
         private System.Windows.Forms.Label lblNumero2;
         private System.Windows.Forms.TextBox txtNumero1;
-        private System.Windows.Forms.TextBox txtbNumero2;
+        private System.Windows.Forms.TextBox txtNumero2;
         private System.Windows.Forms.GroupBox gpbOperacoes;
         private System.Windows.Forms.RadioButton rbtnDivisao;
         private System.Windows.Forms.RadioButton rbtnMultiplicar;

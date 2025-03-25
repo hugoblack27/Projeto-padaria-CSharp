@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmCalculadora.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.Designer.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.Designer.cs",
-              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.Designer.cs",
-              "RelativeToolTip": "Padaria\\frmCalculadora.Designer.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:37:14.592Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,9 +32,22 @@
               "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
               "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.cs",
               "RelativeToolTip": "Padaria\\frmCalculadora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv1IAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T12:49:51.423Z",
+              "WhenOpened": "2025-03-25T11:17:23.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCalculadora.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.Designer.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.Designer.cs",
+              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.Designer.cs",
+              "RelativeToolTip": "Padaria\\frmCalculadora.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:26:05.767Z",
               "EditorCaption": ""
             },
             {
@@ -59,7 +59,7 @@
               "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.cs [Design]",
               "RelativeToolTip": "Padaria\\frmCalculadora.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T12:49:49.61Z",
+              "WhenOpened": "2025-03-25T13:37:52.101Z",
               "EditorCaption": " [Design]"
             }
           ]
