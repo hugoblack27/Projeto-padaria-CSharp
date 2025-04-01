@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}|Padaria\\Padaria.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7203F5F-538A-4DBE-AD95-F0787CB91687}|Folha de Pagamento\\Folha de Pagamento.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\folha de pagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7203F5F-538A-4DBE-AD95-F0787CB91687}|Folha de Pagamento\\Folha de Pagamento.csproj|solutionrelative:folha de pagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}|Padaria\\Padaria.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}|Padaria\\Padaria.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\padaria\\frmcalculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7203F5F-538A-4DBE-AD95-F0787CB91687}|Folha de Pagamento\\Folha de Pagamento.csproj|C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\folha de pagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7203F5F-538A-4DBE-AD95-F0787CB91687}|Folha de Pagamento\\Folha de Pagamento.csproj|solutionrelative:folha de pagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmCalculadora.cs",
-              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
-              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.cs",
-              "RelativeToolTip": "Padaria\\frmCalculadora.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAADwv1IAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:17:23.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmCalculadora.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.Designer.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.Designer.cs",
-              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.Designer.cs",
-              "RelativeToolTip": "Padaria\\frmCalculadora.Designer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T13:26:05.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmCalculadora.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
-              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmCalculadora.cs [Design]",
-              "RelativeToolTip": "Padaria\\frmCalculadora.cs [Design]",
+              "Title": "frmFolhadePagamento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Folha de Pagamento\\frmFolhadePagamento.cs",
+              "RelativeDocumentMoniker": "Folha de Pagamento\\frmFolhadePagamento.cs",
+              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Folha de Pagamento\\frmFolhadePagamento.cs [Design]",
+              "RelativeToolTip": "Folha de Pagamento\\frmFolhadePagamento.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T13:37:52.101Z",
+              "WhenOpened": "2025-03-31T11:48:19.832Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmFolhadePagamento.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Folha de Pagamento\\frmFolhadePagamento.cs",
+              "RelativeDocumentMoniker": "Folha de Pagamento\\frmFolhadePagamento.cs",
+              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Folha de Pagamento\\frmFolhadePagamento.cs",
+              "RelativeToolTip": "Folha de Pagamento\\frmFolhadePagamento.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:56:02.5Z",
+              "EditorCaption": ""
             }
           ]
         }

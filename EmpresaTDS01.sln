@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padaria", "Padaria\Padaria.csproj", "{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Folha de Pagamento", "Folha de Pagamento\Folha de Pagamento.csproj", "{B7203F5F-538A-4DBE-AD95-F0787CB91687}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7203F5F-538A-4DBE-AD95-F0787CB91687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7203F5F-538A-4DBE-AD95-F0787CB91687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7203F5F-538A-4DBE-AD95-F0787CB91687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7203F5F-538A-4DBE-AD95-F0787CB91687}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

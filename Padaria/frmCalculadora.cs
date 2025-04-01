@@ -43,6 +43,17 @@ namespace Padaria
 
                 num1 = Convert.ToDouble(txtNumero1.Text);
                 num2 = Convert.ToDouble(txtNumero2.Text);
+
+                if (rbtnSomar.Checked == false && rbtnSubitrair.Checked == false && rbtnMultiplicar.Checked == false && rbtnDivisao.Checked == false) 
+                {
+                    MessageBox.Show("Selecione uma operação",
+                                    "Mensagem do sistema",
+                                    MessageBoxButtons.OK,
+                                    MessageBoxIcon.Error,
+                                    MessageBoxDefaultButton.Button1
+                                    );
+                }
+
                 if (rbtnSomar.Checked)
                 {
                     resp = num1 + num2;
@@ -85,6 +96,9 @@ namespace Padaria
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Error,
                     MessageBoxDefaultButton.Button2);
+                   txtNumero1.Clear();
+                   txtNumero2.Clear();
+                   txtNumero1.Focus();
             }
 
         }
