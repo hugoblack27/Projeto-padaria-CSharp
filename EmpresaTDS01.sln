@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padaria", "Padaria\Padaria.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Folha de Pagamento", "Folha de Pagamento\Folha de Pagamento.csproj", "{B7203F5F-538A-4DBE-AD95-F0787CB91687}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora de IMC", "Calculadora de IMC\Calculadora de IMC.csproj", "{78E86E97-0CCD-4254-9DB0-B5E26A0B6F43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B7203F5F-538A-4DBE-AD95-F0787CB91687}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7203F5F-538A-4DBE-AD95-F0787CB91687}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7203F5F-538A-4DBE-AD95-F0787CB91687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E86E97-0CCD-4254-9DB0-B5E26A0B6F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E86E97-0CCD-4254-9DB0-B5E26A0B6F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E86E97-0CCD-4254-9DB0-B5E26A0B6F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E86E97-0CCD-4254-9DB0-B5E26A0B6F43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

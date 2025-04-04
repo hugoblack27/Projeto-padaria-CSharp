@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7203F5F-538A-4DBE-AD95-F0787CB91687}|Folha de Pagamento\\Folha de Pagamento.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\folha de pagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7203F5F-538A-4DBE-AD95-F0787CB91687}|Folha de Pagamento\\Folha de Pagamento.csproj|solutionrelative:folha de pagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78E86E97-0CCD-4254-9DB0-B5E26A0B6F43}|Calculadora de IMC\\Calculadora de IMC.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\calculadora de imc\\calculadoradeimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78E86E97-0CCD-4254-9DB0-B5E26A0B6F43}|Calculadora de IMC\\Calculadora de IMC.csproj|solutionrelative:calculadora de imc\\calculadoradeimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7203F5F-538A-4DBE-AD95-F0787CB91687}|Folha de Pagamento\\Folha de Pagamento.csproj|C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\folha de pagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B7203F5F-538A-4DBE-AD95-F0787CB91687}|Folha de Pagamento\\Folha de Pagamento.csproj|solutionrelative:folha de pagamento\\frmfolhadepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78E86E97-0CCD-4254-9DB0-B5E26A0B6F43}|Calculadora de IMC\\Calculadora de IMC.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\calculadora de imc\\calculadoradeimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E86E97-0CCD-4254-9DB0-B5E26A0B6F43}|Calculadora de IMC\\Calculadora de IMC.csproj|solutionrelative:calculadora de imc\\calculadoradeimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmFolhadePagamento.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Folha de Pagamento\\frmFolhadePagamento.cs",
-              "RelativeDocumentMoniker": "Folha de Pagamento\\frmFolhadePagamento.cs",
-              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Folha de Pagamento\\frmFolhadePagamento.cs [Design]",
-              "RelativeToolTip": "Folha de Pagamento\\frmFolhadePagamento.cs [Design]",
+              "Title": "CalculadoradeIMC.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Calculadora de IMC\\CalculadoradeIMC.cs",
+              "RelativeDocumentMoniker": "Calculadora de IMC\\CalculadoradeIMC.cs",
+              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Calculadora de IMC\\CalculadoradeIMC.cs",
+              "RelativeToolTip": "Calculadora de IMC\\CalculadoradeIMC.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T11:48:19.832Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-04T11:26:32.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmFolhadePagamento.cs",
-              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Folha de Pagamento\\frmFolhadePagamento.cs",
-              "RelativeDocumentMoniker": "Folha de Pagamento\\frmFolhadePagamento.cs",
-              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Folha de Pagamento\\frmFolhadePagamento.cs",
-              "RelativeToolTip": "Folha de Pagamento\\frmFolhadePagamento.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAUwCUAAAAoAAAAAAAAAA==",
+              "Title": "CalculadoradeIMC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Calculadora de IMC\\CalculadoradeIMC.cs",
+              "RelativeDocumentMoniker": "Calculadora de IMC\\CalculadoradeIMC.cs",
+              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Calculadora de IMC\\CalculadoradeIMC.cs [Design]",
+              "RelativeToolTip": "Calculadora de IMC\\CalculadoradeIMC.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T11:56:02.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T11:19:24.747Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

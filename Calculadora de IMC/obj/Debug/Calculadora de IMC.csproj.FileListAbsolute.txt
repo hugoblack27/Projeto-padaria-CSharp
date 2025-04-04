@@ -1,0 +1,10 @@
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Calculadora de IMC\bin\Debug\Calculadora de IMC.exe.config
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Calculadora de IMC\bin\Debug\Calculadora de IMC.exe
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Calculadora de IMC\bin\Debug\Calculadora de IMC.pdb
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Calculadora de IMC\obj\Debug\Calculadora de IMC.csproj.AssemblyReference.cache
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Calculadora de IMC\obj\Debug\Calculadora_de_IMC.CalculadoradeIMC.resources
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Calculadora de IMC\obj\Debug\Calculadora_de_IMC.Properties.Resources.resources
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Calculadora de IMC\obj\Debug\Calculadora de IMC.csproj.GenerateResource.cache
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Calculadora de IMC\obj\Debug\Calculadora de IMC.csproj.CoreCompileInputs.cache
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Calculadora de IMC\obj\Debug\Calculadora de IMC.exe
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\Calculadora de IMC\obj\Debug\Calculadora de IMC.pdb
