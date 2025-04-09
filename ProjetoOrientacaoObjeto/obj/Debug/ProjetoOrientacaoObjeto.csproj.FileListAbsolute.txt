@@ -9,3 +9,4 @@ C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\ProjetoOrienta
 C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\ProjetoOrientacaoObjeto\obj\Debug\ProjetoOrientacaoObjeto.pdb
 C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\ProjetoOrientacaoObjeto\obj\Debug\ProjetoOrientacaoObjeto.frmExecutaObjeto.resources
 C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\ProjetoOrientacaoObjeto\obj\Debug\ProjetoOrientacaoObjeto.frmExecutaPessoa.resources
+C:\Users\hugo.hpsantos1\Documents\Visual Studio 2022\EmpresaTDS01\ProjetoOrientacaoObjeto\obj\Debug\ProjetoOrientacaoObjeto.frmProdutos.resources
