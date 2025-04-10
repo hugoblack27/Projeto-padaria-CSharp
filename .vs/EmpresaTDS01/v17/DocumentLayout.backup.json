@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0A20426-1D43-4CBB-BAF9-C9CEDF318C9E}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\projetoorientacaoobjeto\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0A20426-1D43-4CBB-BAF9-C9CEDF318C9E}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|solutionrelative:projetoorientacaoobjeto\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0A20426-1D43-4CBB-BAF9-C9CEDF318C9E}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\projetoorientacaoobjeto\\frmestruturarepiticao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0A20426-1D43-4CBB-BAF9-C9CEDF318C9E}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|solutionrelative:projetoorientacaoobjeto\\frmestruturarepiticao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0A20426-1D43-4CBB-BAF9-C9CEDF318C9E}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\projetoorientacaoobjeto\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0A20426-1D43-4CBB-BAF9-C9CEDF318C9E}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|solutionrelative:projetoorientacaoobjeto\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0A20426-1D43-4CBB-BAF9-C9CEDF318C9E}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\projetoorientacaoobjeto\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0A20426-1D43-4CBB-BAF9-C9CEDF318C9E}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|solutionrelative:projetoorientacaoobjeto\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0A20426-1D43-4CBB-BAF9-C9CEDF318C9E}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|c:\\users\\hugo.hpsantos1\\documents\\visual studio 2022\\empresatds01\\projetoorientacaoobjeto\\frmestruturarepiticao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A20426-1D43-4CBB-BAF9-C9CEDF318C9E}|ProjetoOrientacaoObjeto\\ProjetoOrientacaoObjeto.csproj|solutionrelative:projetoorientacaoobjeto\\frmestruturarepiticao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Produtos.cs",
-              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\ProjetoOrientacaoObjeto\\Produtos.cs",
-              "RelativeDocumentMoniker": "ProjetoOrientacaoObjeto\\Produtos.cs",
-              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\ProjetoOrientacaoObjeto\\Produtos.cs",
-              "RelativeToolTip": "ProjetoOrientacaoObjeto\\Produtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T14:07:14.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmProdutos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\ProjetoOrientacaoObjeto\\frmProdutos.cs",
-              "RelativeDocumentMoniker": "ProjetoOrientacaoObjeto\\frmProdutos.cs",
-              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\ProjetoOrientacaoObjeto\\frmProdutos.cs [Design]",
-              "RelativeToolTip": "ProjetoOrientacaoObjeto\\frmProdutos.cs [Design]",
+              "Title": "frmEstruturaRepiticao.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\ProjetoOrientacaoObjeto\\frmEstruturaRepiticao.cs",
+              "RelativeDocumentMoniker": "ProjetoOrientacaoObjeto\\frmEstruturaRepiticao.cs",
+              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\ProjetoOrientacaoObjeto\\frmEstruturaRepiticao.cs",
+              "RelativeToolTip": "ProjetoOrientacaoObjeto\\frmEstruturaRepiticao.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwFUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T14:04:49.508Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-10T12:54:20.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmProdutos.cs",
-              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\ProjetoOrientacaoObjeto\\frmProdutos.cs",
-              "RelativeDocumentMoniker": "ProjetoOrientacaoObjeto\\frmProdutos.cs",
-              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\ProjetoOrientacaoObjeto\\frmProdutos.cs",
-              "RelativeToolTip": "ProjetoOrientacaoObjeto\\frmProdutos.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvzQAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmEstruturaRepiticao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\ProjetoOrientacaoObjeto\\frmEstruturaRepiticao.cs",
+              "RelativeDocumentMoniker": "ProjetoOrientacaoObjeto\\frmEstruturaRepiticao.cs",
+              "ToolTip": "C:\\Users\\hugo.hpsantos1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\ProjetoOrientacaoObjeto\\frmEstruturaRepiticao.cs [Design]",
+              "RelativeToolTip": "ProjetoOrientacaoObjeto\\frmEstruturaRepiticao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T12:45:43.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T12:39:23.571Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
