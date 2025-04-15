@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -66,33 +67,51 @@ namespace ProjetoOrientacaoObjeto
 
         private void btnInserirEstado_Click(object sender, EventArgs e)
         {
-          inserirEstado();
+            if(txtInserirEstado.Text.Equals(""))
+            {
+                MessageBox.Show("Favor inserir um estado", "Erro Sistema", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else {
+                
+                inserirEstado();
+
+            }
         }
 
 
         public void inserirEstado()
         {
-            try
-            {
-
             ltbListaDesejos.Items.Add(txtInserirEstado.Text);
             txtInserirEstado.Focus();
             txtInserirEstado.Clear();
-            }
-            catch (Exception)
-            {
-                MessageBox.Show("Favor Inserir valores.");
-                txtInserirEstado.Focus();
-                txtInserirEstado.Clear();
-            }
+           
         }
 
         private void txtInserirEstado_KeyDown(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Enter) 
+            if (e.KeyCode == Keys.Enter && txtInserirEstado.Text.Equals("")) 
             {
                 inserirEstado();
             }
+
+        }
+
+        private void btnLimparItemSelecionado_Click(object sender, EventArgs e)
+        {
+            try
+            { 
+            ltbListaDesejos.Items.RemoveAt(ltbListaDesejos.SelectedIndex);
+            }catch (Exception) {
+                MessageBox.Show("Favor Selecionar Item", "Erro Sistema",
+                    MessageBoxButtons.OK, 
+                    MessageBoxIcon.Error
+                    );
+            }
+        }
+
+        private void btnLimparEstado_Click(object sender, EventArgs e)
+        {
+            ltbListaDesejos.Items.Clear();
         }
     }
 }

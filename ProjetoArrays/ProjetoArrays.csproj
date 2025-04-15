@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EF2571AB-CFE6-476E-8D54-6FBC3CEFAD0D}</ProjectGuid>
+    <ProjectGuid>{2EBDA4FB-1845-4D2C-9EDD-EBB364266587}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Padaria</RootNamespace>
-    <AssemblyName>Padaria</AssemblyName>
+    <RootNamespace>ProjetoArrays</RootNamespace>
+    <AssemblyName>ProjetoArrays</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,71 +46,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmCalculadora.cs">
+    <Compile Include="frmVetores.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmCalculadora.Designer.cs">
-      <DependentUpon>frmCalculadora.cs</DependentUpon>
+    <Compile Include="frmVetores.Designer.cs">
+      <DependentUpon>frmVetores.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmFuncionarios.cs">
+    <Compile Include="frmVetornomes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmFuncionarios.Designer.cs">
-      <DependentUpon>frmFuncionarios.cs</DependentUpon>
+    <Compile Include="frmVetornomes.Designer.cs">
+      <DependentUpon>frmVetornomes.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmLogin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmLogin.Designer.cs">
-      <DependentUpon>frmLogin.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmMenuPrincipal.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmMenuPrincipal.Designer.cs">
-      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmPesquisarFuncionarios.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmPesquisarFuncionarios.Designer.cs">
-      <DependentUpon>frmPesquisarFuncionarios.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmSlpash.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmSlpash.Designer.cs">
-      <DependentUpon>frmSlpash.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmSobreNos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmSobreNos.Designer.cs">
-      <DependentUpon>frmSobreNos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Operacoes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmCalculadora.resx">
-      <DependentUpon>frmCalculadora.cs</DependentUpon>
+    <EmbeddedResource Include="frmVetores.resx">
+      <DependentUpon>frmVetores.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmFuncionarios.resx">
-      <DependentUpon>frmFuncionarios.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmLogin.resx">
-      <DependentUpon>frmLogin.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmMenuPrincipal.resx">
-      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmPesquisarFuncionarios.resx">
-      <DependentUpon>frmPesquisarFuncionarios.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmSlpash.resx">
-      <DependentUpon>frmSlpash.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmSobreNos.resx">
-      <DependentUpon>frmSobreNos.cs</DependentUpon>
+    <EmbeddedResource Include="frmVetornomes.resx">
+      <DependentUpon>frmVetornomes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

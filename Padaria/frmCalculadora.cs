@@ -4,6 +4,7 @@ using System.Data;
 using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -36,11 +37,12 @@ namespace Padaria
 
             //declarando as variaveis
             double num1, num2, resp=0;
+            
 
             //inicializar as variaveis
             try
             {
-
+                
                 num1 = Convert.ToDouble(txtNumero1.Text);
                 num2 = Convert.ToDouble(txtNumero2.Text);
 
@@ -53,15 +55,16 @@ namespace Padaria
                                     MessageBoxDefaultButton.Button1
                                     );
                 }
+                Operacoes op = new Operacoes();
 
                 if (rbtnSomar.Checked)
                 {
-                    resp = num1 + num2;
+                    resp = op.somaValor(num1, num2);                                                                       
                 }
 
                 if (rbtnSubitrair.Checked)
                 {
-                    resp = num1 - num2;
+                    resp = op.subtracaoValor(num1, num2);
                 }
 
                 if (rbtnDivisao.Checked)
@@ -78,13 +81,13 @@ namespace Padaria
 
                     else
                     {
-                        resp = num1 / num2;
+                        resp = op.divisaoValor(num1,num2);
                     }
                 }
 
                 if (rbtnMultiplicar.Checked)
                 {
-                    resp = num1 * num2;
+                    resp = op.multiplicacaoValor(num1,num2);
                 }
 
                 txtbResposta.Text = resp.ToString();
@@ -96,11 +99,16 @@ namespace Padaria
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Error,
                     MessageBoxDefaultButton.Button2);
-                   txtNumero1.Clear();
-                   txtNumero2.Clear();
-                   txtNumero1.Focus();
+                    limparCampos();
             }
 
+        }
+
+        public void limparCampos()
+        {
+            txtNumero1.Clear();
+            txtNumero2.Clear();
+            txtNumero1.Focus();
         }
 
         private void btnSair_Click(object sender, EventArgs e)
@@ -112,6 +120,11 @@ namespace Padaria
         private void BtnLimpar_Click(object sender, EventArgs e)
         {
             //Limpar os cantos 
+            limparCamposDesabilitar();
+        }
+
+        public void limparCamposDesabilitar()
+        {
             txtNumero1.Text = "";
             txtNumero2.Clear();
             txtbResposta.Clear();

@@ -37,6 +37,8 @@
             this.lblDigiteEstado = new System.Windows.Forms.Label();
             this.txtInserirEstado = new System.Windows.Forms.TextBox();
             this.btnInserirEstado = new System.Windows.Forms.Button();
+            this.btnLimparEstado = new System.Windows.Forms.Button();
+            this.btnLimparItemSelecionado = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCarregaEstado
@@ -112,28 +114,53 @@
             // 
             // txtInserirEstado
             // 
+            this.txtInserirEstado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtInserirEstado.Location = new System.Drawing.Point(67, 201);
             this.txtInserirEstado.Name = "txtInserirEstado";
-            this.txtInserirEstado.Size = new System.Drawing.Size(190, 20);
+            this.txtInserirEstado.Size = new System.Drawing.Size(257, 26);
             this.txtInserirEstado.TabIndex = 1;
             this.txtInserirEstado.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtInserirEstado_KeyDown);
             // 
             // btnInserirEstado
             // 
             this.btnInserirEstado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnInserirEstado.Location = new System.Drawing.Point(67, 236);
+            this.btnInserirEstado.Location = new System.Drawing.Point(68, 233);
             this.btnInserirEstado.Name = "btnInserirEstado";
-            this.btnInserirEstado.Size = new System.Drawing.Size(144, 50);
+            this.btnInserirEstado.Size = new System.Drawing.Size(125, 32);
             this.btnInserirEstado.TabIndex = 2;
             this.btnInserirEstado.Text = "Inserir Estado";
             this.btnInserirEstado.UseVisualStyleBackColor = true;
             this.btnInserirEstado.Click += new System.EventHandler(this.btnInserirEstado_Click);
+            // 
+            // btnLimparEstado
+            // 
+            this.btnLimparEstado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLimparEstado.Location = new System.Drawing.Point(199, 233);
+            this.btnLimparEstado.Name = "btnLimparEstado";
+            this.btnLimparEstado.Size = new System.Drawing.Size(125, 32);
+            this.btnLimparEstado.TabIndex = 7;
+            this.btnLimparEstado.Text = "Limpar Estado";
+            this.btnLimparEstado.UseVisualStyleBackColor = true;
+            this.btnLimparEstado.Click += new System.EventHandler(this.btnLimparEstado_Click);
+            // 
+            // btnLimparItemSelecionado
+            // 
+            this.btnLimparItemSelecionado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLimparItemSelecionado.Location = new System.Drawing.Point(68, 271);
+            this.btnLimparItemSelecionado.Name = "btnLimparItemSelecionado";
+            this.btnLimparItemSelecionado.Size = new System.Drawing.Size(256, 32);
+            this.btnLimparItemSelecionado.TabIndex = 8;
+            this.btnLimparItemSelecionado.Text = "Limpar Item Selecionado";
+            this.btnLimparItemSelecionado.UseVisualStyleBackColor = true;
+            this.btnLimparItemSelecionado.Click += new System.EventHandler(this.btnLimparItemSelecionado_Click);
             // 
             // frmEstruturaRepiticao
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnLimparItemSelecionado);
+            this.Controls.Add(this.btnLimparEstado);
             this.Controls.Add(this.btnInserirEstado);
             this.Controls.Add(this.txtInserirEstado);
             this.Controls.Add(this.lblDigiteEstado);
@@ -161,5 +188,7 @@
         private System.Windows.Forms.Label lblDigiteEstado;
         private System.Windows.Forms.TextBox txtInserirEstado;
         private System.Windows.Forms.Button btnInserirEstado;
+        private System.Windows.Forms.Button btnLimparEstado;
+        private System.Windows.Forms.Button btnLimparItemSelecionado;
     }
 }
